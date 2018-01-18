@@ -1,0 +1,14 @@
+Package: dominos
+Source: dominos
+Version: 1.0-wheezy
+Architecture: all
+Maintainer: Libre Games Archive <LibreGamesArchive@github.com>
+Section: games
+Priority: optional
+Depends: python (>= 2.6.6-7~), python (<< 2.8), python-pygame
+Installed-Size: 697
+Homepage: https://github.com/LibreGamesArchive/dominos
+Description: Dominos is a puzzle game
+ Dominos is a puzzle game based on the Sino-European domino set, which consists of 28 dominoes.
+ For more information about Dominos and Game rules please read the game documentation.
+ Or you can surf the Wikipedia page about Dominos.

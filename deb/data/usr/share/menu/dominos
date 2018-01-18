@@ -1,0 +1,6 @@
+?package(dominos):needs="x11" \
+	section="Games/Blocks" \
+	title="Dominos" \
+	longtitle="Dominos is a puzzle game" \
+	icon="/usr/share/pixmaps/dominos.xpm" \
+	command="/usr/games/dominos"

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Dominos
+Comment=Dominos is a puzzle game
+Icon=dominos.png
+Exec=dominos
+Categories=Game;BoardGame;
+Terminal=false
