@@ -35,6 +35,10 @@ Install deb package:
 $ sudo dpkg -i *.deb
 ```
 
-2018  
+## Screenshots
+
+![Dominos window](screenshot.png)
+
+2019  
 ---  
 zvezdochiot
